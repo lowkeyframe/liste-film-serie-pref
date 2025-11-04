@@ -1,4 +1,4 @@
-# liste-film-serie-pref
+# Liste de nos films et séries préférés
 Exercice simple de collaboration pour mettre en commun nos séries préférées
   
 **Exemple**
